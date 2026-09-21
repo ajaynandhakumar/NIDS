@@ -232,6 +232,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-## 👤 Author
+## 👤 Author <https://github.com/ajaynandhakumar>
 
 Built as a professional-grade cybersecurity portfolio project demonstrating full-stack Python engineering, ML integration, and real-time systems design.
+
