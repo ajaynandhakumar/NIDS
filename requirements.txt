@@ -1,0 +1,18 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# requirements.txt — AI-Based Network Intrusion Detection System (NIDS)
+# ──────────────────────────────────────────────────────────────────────────────
+
+# ── Core Data Science ──────────────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# ── Network Capture (requires admin/root + WinPcap/Npcap on Windows) ──────────
+scapy>=2.5.0
+
+# ── Terminal Colour Output ─────────────────────────────────────────────────────
+colorama>=0.4.6
+
+# ── Optional: Jupyter for exploration (not required for runtime) ───────────────
+# notebook>=7.0.0
